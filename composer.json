@@ -1,0 +1,14 @@
+{
+    "name": "stay29/stay11",
+    "description": "this is proect\u001b[D\u001b[D\u001b[Dj",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "stay29",
+            "email": "349833112@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
